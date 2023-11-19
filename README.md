@@ -20,7 +20,7 @@
   <p>Welcom Ali</p>
   <p align="center">
     <a href="https://www.linkedin.com/in/mohamed-ouaammou-82a816220/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="."><img src="https://img.shields.io/twitter/follow/your_twitter_handle?style=social" alt="Twitter"></a>
+    <a href="."><img src="https://img.shields.io/twitter/follow/your_twitter_handle?style=social" alt="Twitterrr"></a>
   </p>
 </div>
 <br/>
