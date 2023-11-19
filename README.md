@@ -19,8 +19,8 @@
   <h2>Yang</h2>
   <p>Welcom Ali</p>
   <p align="center">
-    <a href="your_linkedin_profile_url_here"><img src="https://www.linkedin.com/in/mohamed-ouaammou-82a816220/" alt="LinkedIn"></a>
-    <a href="your_twitter_profile_url_here"><img src="." alt="Twitter"></a>
+    <a href="https://www.linkedin.com/in/mohamed-ouaammou-82a816220/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="."><img src="https://img.shields.io/twitter/follow/your_twitter_handle?style=social" alt="Twitterrr"></a>
   </p>
 </div>
 <br/>
