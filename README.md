@@ -1,5 +1,5 @@
 # my_contributers
-<!-- Replace the placeholder links and information with your own details -->
+<!-- Replace the placeholder links and information with your own details --> 
 
 <p align="center">--------------------------------------------------------------------- </p>
 <div align="center">
