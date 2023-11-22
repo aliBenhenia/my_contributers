@@ -7,7 +7,7 @@
   <h2>ALI BENHENIA</h2> 
   <p>Mern stack developer</p> 
   <p align="center">
-    <a href="your_linkedin_profile_url_here"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="your_linkedin_profile_url_here"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a> 
     <a href="your_twitter_profile_url_here"><img src="https://img.shields.io/twitter/follow/your_twitter_handle?style=social" alt="Twitter"></a>
   </p>
 </div> 
